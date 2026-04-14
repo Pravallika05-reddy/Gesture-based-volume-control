@@ -1,0 +1,5 @@
+OpenCV
+Numpy
+Pycharm
+MediaPipe
+Pyautogui
