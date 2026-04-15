@@ -48,15 +48,28 @@ The system successfully detects hand gestures and adjusts system volume in real 
 ## 7. HOW TO RUN
 Install dependencies and run the project:
 
-```bash
 pip install -r requirements.txt
 python main.py
 
-## 7. PROGRAM STRUCTURE
+---
 
-Gesture Volume Control/
-│
-├── main.py
-├── requirements.txt
-├── output.jpg
-└── README.md
+## 8. PROGRAM STRUCTURE
+
+Gesture Volume Control
+│ main.py
+| requirements.txt
+| output.jpg
+| README.md
+
+---
+
+## 9.CONCLUSION
+This project demonstrates an efficient and modern approach to human-computer interaction using gesture recognition and computer vision techniques.
+
+---
+
+## 10.AUTHOR
+Pravallika Reddy
+Computer Science Student
+
+---
