@@ -48,20 +48,12 @@ The main objective of this project is to design a real-time system that detects 
 The system successfully detects hand gestures and controls the system volume in real time.
 
 
+ 7. HOW TO RUN
+- Install required libraries and run the project:
 
----
-
-7. HOW TO RUN
-
-1. Install required libraries:
-
+```bash
 pip install -r requirements.txt
-
-2. Run the project:
-
 python main.py
-
----
 
 8. PROJECT STRUCTURE
 
