@@ -47,7 +47,7 @@ The main objective of this project is to design a real-time system that detects 
 
 The system successfully detects hand gestures and controls the system volume in real time.
 
-"Output" (output.jpg)
+
 
 ---
 
@@ -82,5 +82,5 @@ This project demonstrates an efficient and modern approach to human-computer int
 
 10. AUTHOR
 
-Pravallika Reddy
+Pravallika Reddy \\
 Computer Science Student
