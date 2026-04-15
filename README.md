@@ -57,3 +57,4 @@ python main.py
  ## 9. CONCLUSION
 
 This project demonstrates an efficient and modern approach to human-computer interaction using gesture recognition and computer vision techniques.
+---
