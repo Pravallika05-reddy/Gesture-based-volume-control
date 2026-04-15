@@ -52,7 +52,7 @@ Install dependencies and run the project:
 pip install -r requirements.txt
 python main.py
 
-8. PROJECT STRUCTURE
+## 8. PROJECT STRUCTURE
 Gesture Volume Control/
 │
 ├── main.py
@@ -60,11 +60,11 @@ Gesture Volume Control/
 ├── output.jpg
 └── README.md
 
-9. CONCLUSION
+## 9. CONCLUSION
 
 This project demonstrates an efficient and modern approach to human-computer interaction using gesture recognition and computer vision techniques.
 
-10. AUTHOR
+## 10. AUTHOR
 
 Pravallika Reddy
 Computer Science Student
