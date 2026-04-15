@@ -52,9 +52,11 @@ Install dependencies and run the project:
 pip install -r requirements.txt
 python main.py
 
----
+8. PROJECT STRUCTURE
 
- ## 9. CONCLUSION
-
-This project demonstrates an efficient and modern approach to human-computer interaction using gesture recognition and computer vision techniques.
----
+Gesture Volume Control/
+│
+├── main.py
+├── requirements.txt
+├── output.jpg
+└── README.md
