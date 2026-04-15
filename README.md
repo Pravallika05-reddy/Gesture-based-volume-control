@@ -52,7 +52,7 @@ Install dependencies and run the project:
 pip install -r requirements.txt
 python main.py
 
-8. PROJECT STRUCTURE
+## 7. PROGRAM STRUCTURE
 
 Gesture Volume Control/
 │
