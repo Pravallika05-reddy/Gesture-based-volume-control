@@ -69,7 +69,7 @@ This project demonstrates an efficient and modern approach to human-computer int
 ---
 
 ## 10.AUTHOR
-Pravallika Reddy\\
+Pravallika Reddy \newline
 Computer Science Student
 
 ---
