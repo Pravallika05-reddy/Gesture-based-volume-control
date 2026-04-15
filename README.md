@@ -41,14 +41,13 @@ The main objective of this project is to design a real-time system that detects 
 ## 6. OUTPUT
 The system successfully detects hand gestures and adjusts system volume in real time.
 
-![Output](output.jpeg)
 
 ---
 
 ## 7. HOW TO RUN
 Install dependencies and run the project:
 
-pip install -r requirements.txt
+pip install -r requirements.txt &&
 python main.py
 
 ---
@@ -58,7 +57,7 @@ python main.py
 Gesture Volume Control
 │ main.py
 | requirements.txt
-| output.jpg
+| output.jpeg
 | README.md
 
 ---
