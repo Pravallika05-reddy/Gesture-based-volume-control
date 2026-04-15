@@ -41,7 +41,7 @@ The main objective of this project is to design a real-time system that detects 
 ## 6. OUTPUT
 The system successfully detects hand gestures and adjusts system volume in real time.
 
-![Output](output.jpg)
+![Output](output.jpeg)
 
 ---
 
@@ -52,19 +52,4 @@ Install dependencies and run the project:
 pip install -r requirements.txt
 python main.py
 
-## 8. PROJECT STRUCTURE
-Gesture Volume Control/
-│
-├── main.py
-├── requirements.txt
-├── output.jpg
-└── README.md
 
-## 9. CONCLUSION
-
-This project demonstrates an efficient and modern approach to human-computer interaction using gesture recognition and computer vision techniques.
-
-## 10. AUTHOR
-
-Pravallika Reddy
-Computer Science Student
